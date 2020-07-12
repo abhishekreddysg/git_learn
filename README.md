@@ -15,6 +15,7 @@ ls - to find the list of files present
   -- git add 'file"
   -- git commit -m "msg"
 
-cat filename
+cat filename - checks if modified or not
+
 
 
